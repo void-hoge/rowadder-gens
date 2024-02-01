@@ -1,2 +1,5 @@
 note
 *~
+*.v
+/__pycache__/
+/test/
